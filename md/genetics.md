@@ -27,5 +27,3 @@ aa, Bb(혹은 bB), Dd(혹은 dD) -> 4가지
 따라서, 답은 15/64.
 
 ![nature vs. nurture](/img/nature_nurture1.png "nature vs. nurture")  
-
-   
