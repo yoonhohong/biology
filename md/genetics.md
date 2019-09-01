@@ -26,4 +26,4 @@ aa, Bb(혹은 bB), Dd(혹은 dD) -> 4가지
 이렇게 총 3 + 4 + 4 + 4 = 15 가지가 가능하다.
 따라서, 답은 15/64.
 
-![alt text](/img/nature_nurture1.png)  
+![alt text](img/nature_nurture1.png)    
