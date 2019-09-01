@@ -29,8 +29,10 @@ aa, Bb(혹은 bB), Dd(혹은 dD) -> 4가지
 Nature vs. nurture   
 다음 제시문을 읽고 논제를 풀어보자.   
 ![제시문1](img/nature_nurture1.png)    
+
 ![제시문2](img/nature_nurture2.png)    
+
 ![논제](img/nature_nurture3.png)  
 
 
-    
+  
